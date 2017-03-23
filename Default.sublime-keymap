@@ -1,0 +1,5 @@
+[
+    { "keys": ["super+d","super+r"], "command": "set_global_font_size", "args": { "new_size": 16 } },
+    { "keys": ["super+d","super+l"], "command": "set_global_font_size", "args": { "new_size": 23 } },
+    { "keys": ["super+d","super+h"], "command": "set_global_font_size", "args": { "new_size": 30 } }
+]

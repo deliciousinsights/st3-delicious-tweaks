@@ -1,0 +1,43 @@
+[
+    {
+        "caption": "View",
+        "mnemonic": "V",
+        "id": "view",
+        "children":
+        [
+            {
+                "caption": "Delicious Tweaks",
+                "children":
+                [
+                    {
+                        "caption": "Global Font Sizes",
+                        "children":
+                        [
+                            {
+                                "caption": "Regular (16)",
+                                "command": "set_global_font_size",
+                                "args": {
+                                    "new_size": 16
+                                }
+                            },
+                            {
+                                "caption": "Large (23)",
+                                "command": "set_global_font_size",
+                                "args": {
+                                    "new_size": 23
+                                }
+                            },
+                            {
+                                "caption": "Huge (30)",
+                                "command": "set_global_font_size",
+                                "args": {
+                                    "new_size": 30
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

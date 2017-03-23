@@ -1,0 +1,23 @@
+[
+    {
+        "caption": "Delicious Tweaks: Regular Font Size (16)",
+        "command": "set_global_font_size",
+        "args": {
+            "new_size": 16
+        }
+    },
+    {
+        "caption": "Delicious Tweaks: Large Font Size (23)",
+        "command": "set_global_font_size",
+        "args": {
+            "new_size": 23
+        }
+    },
+    {
+        "caption": "Delicious Tweaks: Huge Font Size (30)",
+        "command": "set_global_font_size",
+        "args": {
+            "new_size": 30
+        }
+    }
+]
